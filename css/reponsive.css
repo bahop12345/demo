@@ -1,0 +1,23 @@
+@media (min-width: 320px) {
+ .sirbar-1 {
+  margin-top: 4rem;
+}
+}
+
+@media (min-width: 768px) {
+  .product-de-1{
+    left: 50%;
+  }
+  .sirbar-1{
+    right: 50%;
+    margin: 0;
+  }
+}
+@media (min-width: 992px) {
+  .product-de-1{
+    left: 25%;
+  }
+  .sirbar-1{
+    right: 75%;
+  }
+}

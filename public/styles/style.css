@@ -1,0 +1,79 @@
+.form-textarea-product{
+    width: 530px;
+
+}
+.collapsible {
+  background-color: #4FC308;
+  color: white;
+  cursor: pointer;
+  /* padding: 10px; */
+  /* width: 100%; */
+  text-align: center !important;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  position: relative;
+  right: -31%;
+}
+td .a {
+  background-color: #4FC308;
+  color: white;
+  cursor: pointer;
+  /* padding: 10px; */
+  /* width: 100%; */
+  text-align: center !important;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  position: relative;
+  right: -38%;
+}
+
+.active, .collapsible:hover {
+  background-color: #4FC308;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+.card{
+    width: 600px;
+}
+.button {
+  background-color: #58257b; /* MÃƒÆ’Ã‚Â u cÃƒÂ¡Ã‚Â»Ã‚Â§a QuÃƒÂ¡Ã‚ÂºÃ‚Â£n trÃƒÂ¡Ã‚Â»Ã¢â‚¬Â¹ mÃƒÂ¡Ã‚ÂºÃ‚Â¡ng ^^ */
+  border: none;
+  color: white;
+    height: 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid LightSalmon;
+}
+
+.button1:hover {
+  background-color: LightSalmon;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(255, 183, 153, 1), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.form-inline{
+    padding-top: 10px;
+    padding-left: 25px;
+}
+.fa-trash-alt{
+  color: red;
+}
